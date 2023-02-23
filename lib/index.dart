@@ -1,7 +1,7 @@
+import 'package:bloc_rev_string/rev_Bloc/rev_string_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'Bloc/rev_string_bloc.dart';
 
 class Index extends StatelessWidget {
   const Index({Key? key}) : super(key: key);
